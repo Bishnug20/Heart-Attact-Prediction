@@ -103,8 +103,6 @@ The Decision Tree model improved significantly with hyperparameter tuning.
 
 The overall accuracy remained low, suggesting more complex models like Neural Networks may be needed.
 
-Installation & Setup
-
 Future Improvements
 
 Implementing Neural Networks to better handle non-linearity.
@@ -114,3 +112,6 @@ Collecting more diverse health-related data to improve predictions.
 Using ensemble methods like stacking different models.
 
 Experimenting with deep learning architectures.
+References
+
+Dataset Source: Kaggle:https://www.kaggle.com/datasets/arifmia/heart-attack-risk-dataset/data
